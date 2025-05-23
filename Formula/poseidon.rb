@@ -2,7 +2,7 @@ class Poseidon < Formula
     desc "Command and Control"
     homepage "https://github.com/kvcallfield/"
     url "https://github.com/kvcallfield/homebrew-brew/raw/refs/heads/main/poseidon-1.33.7.tar.gz"
-    sha256 "a25893127162e1136adaf4b6ccc0aead47d0bdb29e79ba91ce481b0e16d08e36"
+    sha256 "2f05bc2d20908c6d3d4cbe13c98e7cd87e07afc474d68dee5f58b2c872d71bad"
     version "1.33.7"
 
     def install
